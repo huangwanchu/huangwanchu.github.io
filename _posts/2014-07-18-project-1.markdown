@@ -8,5 +8,4 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: Amy is a bit fat than lots of people. 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Bde_4GaI2DY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
